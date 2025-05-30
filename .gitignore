@@ -1,3 +1,9 @@
+# Tests files
+test/
+
+# Valgrind files
+vgcore.*
+
 # Prerequisites
 *.d
 
